@@ -1,7 +1,7 @@
 // how to take input in the JS
 
 function runProgramm(input) {
-    console.log(input);
+    console.log(input);       // Every input from js will be form of String 
 }
 
 process.stdin.resume();
